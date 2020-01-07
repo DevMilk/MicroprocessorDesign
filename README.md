@@ -10,15 +10,15 @@ AX register's value too. AX register's value can be seen in 7 segment at 8255's 
 offset and code segment value to vector table.
 
 
-![alt text](https://github.com/DevMilk/MicroprocessorDesign/new/master/Interrupt.png)
+![alt text](https://github.com/DevMilk/MicroprocessorDesign/blob/master/Interrupt.png)
 
 
 SamplingWave Program uses 8255 to read impulses at 8253A at every impulse, input signal's value assigned to an array
 and when 60 sample is done, sampled signal can be seen in monitor
 
-![alt text](https://github.com/DevMilk/MicroprocessorDesign/new/master/Sample.png)
+![alt text](https://github.com/DevMilk/MicroprocessorDesign/blob/master/Sample.png)
 
 
 Generating square wave with 8254:
 
-![alt text](https://github.com/DevMilk/MicroprocessorDesign/new/master/Square.png)
+![alt text](https://github.com/DevMilk/MicroprocessorDesign/blob/master/Square.png)
